@@ -1,5 +1,3 @@
-# WebSite hosted with GitHub Pages
-
 # Paolo Ronco GitHub Pages WebSite
 
 ## About
@@ -8,23 +6,23 @@
 My commitment in the field of computer science is also highlighted by the achievement of numerous other certifications in IT, CyberSecurity, Networking, and Cloud. 
 I am motivated to acquire new skills and aspire to work in a dynamic environment in order to contribute with passion and dedication to cybersecurity.
 
-## Contatti
+## Contacts
 
 - Email: [info@paoloronco.it](mailto:info@paoloronco.it)
-- Siti Web:
-  - [paoloronco.it](https://paoloronco.it) - Sito principale (CV)
-  - [Portfolio](https://prportfolio.paoloronco.it) - Portfolio
-  - [All My Websites](https://links.paoloronco.it) - Tutti i miei siti web
-  - [Google Play App](https://play.google.com/store/apps/details?id=com.pr.paoloroncowebsite) - App su Google Play
+- Websites:
+  - [paoloronco.it](https://paoloronco.it) - Main WebSite (CV)
+  - [Portfolio](https://prportfolio.paoloronco.it) - Portfolio & Projects Website
+  - [All My Websites](https://links.paoloronco.it) - All my Websites links
+  - [Google Play App](https://play.google.com/store/apps/details?id=com.pr.paoloroncowebsite) - My Google Play App
   
 
-## Formazione
+## ​Education and Training
 
-- Corso in CyberSecurity - Istituto Volta, Milano
-- Laurea triennale in Scienze della Comunicazione, specializzazione in Digital Entertainment and Marketing - Università eCampus
-- Diploma in Amministrazione, Finanza e Marketing - Istituto Tecnico Commerciale - Vera e libera Arduino, Torino
+- ​Cybersecurity Course - Istituto Volta, Milan
+- Bachelor's degree in Communication Sciences, Digital Entertainment and Marketing - eCampus University
+- Diploma in Administration, Finance and Marketing - Technical Commercial Institute - Vera e libera Arduino, Turin
 
-## Certificati
+## Certificates
 
 - [CompTIA Security+](https://drive.google.com/file/d/18YxdMS9VWWOZ4Cp7YW1GMIcs6K-eiH8V/view)
 - [EcCouncil Ethical Hacking Essentials (EHE)](https://drive.google.com/file/d/1kYlruycasjmeUCMSjUfbYKo_mOa1YOKc/view)
@@ -44,7 +42,7 @@ I am motivated to acquire new skills and aspire to work in a dynamic environment
 - [AnPal Crescere in Digitale](https://drive.google.com/file/d/1jKziJBAHiqM63flePXhiBHWZtYOJbhjY/view)
 - Attestato di formazione sicurezza sul lavoro 2021
 
-## Aree di competenza
+## Areas of Expertise
 
 - CyberSecurity
 - Networking
@@ -55,7 +53,7 @@ I am motivated to acquire new skills and aspire to work in a dynamic environment
 - i.T. Support
 - Troubleshooting
 
-## Lingue
+## Languages
 
 - Italiano: madrelingua
 - Inglese: fluente
