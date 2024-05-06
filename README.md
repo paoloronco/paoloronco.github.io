@@ -4,7 +4,7 @@
 
 ## Chi sono
 
-Mi chiamo Paolo Ronco e sono uno studente di cybersecurity attivamente alla ricerca di lavoro. Qui potete trovare informazioni su di me, il mio background educativo, le mie competenze e i miei contatti.
+​Graduated in Communication Sciences, Digital Entertainment & Marketing, I subsequently obtained the EcCouncil EHE and CompTIA Security+ certifications by attending the specialized computer school, Istituto Volta in Milan, specializing in CyberSecurity. My commitment in the field of computer science is also highlighted by the achievement of numerous other certifications in IT, CyberSecurity, Networking, and Cloud. I am motivated to acquire new skills and aspire to work in a dynamic environment in order to contribute with passion and dedication to cybersecurity.
 
 ## Contatti
 
@@ -44,12 +44,13 @@ Mi chiamo Paolo Ronco e sono uno studente di cybersecurity attivamente alla rice
 
 ## Aree di competenza
 
-- Sicurezza informatica
+- CyberSecurity
 - Networking
 - Cloud
-- Linux / Windows
-- Amministrazione server
-- Assistenza e riparazione hardware
+- Linux CLI
+- Windows Client & Server
+- Web Developement
+- i.T. Support
 - Troubleshooting
 
 ## Lingue
@@ -58,4 +59,4 @@ Mi chiamo Paolo Ronco e sono uno studente di cybersecurity attivamente alla rice
 - Inglese: fluente
 - Spagnolo: scolastico
 
-
+## Made wit​h ♥ by. Paolo Ronco
