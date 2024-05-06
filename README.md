@@ -24,22 +24,22 @@
 
 ## Certificati
 
-- [CompTIA Security+]([link](https://drive.google.com/file/d/18YxdMS9VWWOZ4Cp7YW1GMIcs6K-eiH8V/view))
-- [EcCouncil Ethical Hacking Essentials (EHE)]([link](https://drive.google.com/file/d/1kYlruycasjmeUCMSjUfbYKo_mOa1YOKc/view))
-- [Cisco NetCAD - Get Connected 2022]([link](https://drive.google.com/file/d/1asZ5Nks1vRQnltrLY1TFyzNMm6a3_XT9/view))
-- [Cisco NetCAD - Introduction to CyberSecurity 2022]([link](https://drive.google.com/file/d/1CTSt5hZjEzO20fmsZi7ytHcSflV46Sht/view))
-- [Cisco NetCAD - NDG Linux Unchained]([link](https://drive.google.com/file/d/1LPLaAevhfvdf4k_JhPDcooPalqLAbHKK/view))
-- [Fondamenti di Marketing Digitale, 2020]([link](https://drive.google.com/file/d/16_cCk_c1KdZA-DqMSXEDkVssxYQkT5GX/view))
-- [Google IT Support - Technical Support Fundamentals]([link](https://drive.google.com/file/d/1yLC3zjTIcfYhq9FD6sQXJeqJBHBLCOAX/view))
-- [IBM - Introduction to Hardware and Operating Systems]([link](https://drive.google.com/file/d/1sbKR76zIR5Z6cL_iuhFEBkhwnl2ERNCD/view))
-- [Intel® Network Academy - Network Transformation 101]([link](https://drive.google.com/file/d/1G7YIxvl2IieaVOE3dmsPB39QpvhIc-Oo/view))
-- [Google Cyber Security Professional Certificate]([link](https://drive.google.com/file/d/1eie-4tzpGaMNnRdk_7OuB5vw3sQCu2zK/view))
+- [CompTIA Security+](https://drive.google.com/file/d/18YxdMS9VWWOZ4Cp7YW1GMIcs6K-eiH8V/view)
+- [EcCouncil Ethical Hacking Essentials (EHE)](https://drive.google.com/file/d/1kYlruycasjmeUCMSjUfbYKo_mOa1YOKc/view)
+- [Cisco NetCAD - Get Connected 2022](https://drive.google.com/file/d/1asZ5Nks1vRQnltrLY1TFyzNMm6a3_XT9/view)
+- [Cisco NetCAD - Introduction to CyberSecurity 2022](https://drive.google.com/file/d/1CTSt5hZjEzO20fmsZi7ytHcSflV46Sht/view)
+- [Cisco NetCAD - NDG Linux Unchained](https://drive.google.com/file/d/1LPLaAevhfvdf4k_JhPDcooPalqLAbHKK/view)
+- [Fondamenti di Marketing Digitale, 2020](https://drive.google.com/file/d/16_cCk_c1KdZA-DqMSXEDkVssxYQkT5GX/view)
+- [Google IT Support - Technical Support Fundamentals](https://drive.google.com/file/d/1yLC3zjTIcfYhq9FD6sQXJeqJBHBLCOAX/view)
+- [IBM - Introduction to Hardware and Operating Systems](https://drive.google.com/file/d/1sbKR76zIR5Z6cL_iuhFEBkhwnl2ERNCD/view)
+- [Intel® Network Academy - Network Transformation 101](https://drive.google.com/file/d/1G7YIxvl2IieaVOE3dmsPB39QpvhIc-Oo/view)
+- [Google Cyber Security Professional Certificate](https://drive.google.com/file/d/1eie-4tzpGaMNnRdk_7OuB5vw3sQCu2zK/view)
 - [Google Cloud Skill Boost:](link)
   - Security & Identify Fundamentals
   - Networking Fundamentals in Google Cloud
   - Baseline Infrastructure
   - Google Cloud Essentials
-- [AnPal Crescere in Digitale]([link](https://drive.google.com/file/d/1jKziJBAHiqM63flePXhiBHWZtYOJbhjY/view))
+- [AnPal Crescere in Digitale](https://drive.google.com/file/d/1jKziJBAHiqM63flePXhiBHWZtYOJbhjY/view)
 - Attestato di formazione sicurezza sul lavoro 2021
 
 ## Aree di competenza
