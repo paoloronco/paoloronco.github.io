@@ -4,7 +4,9 @@
 
 ## About
 
-​Graduated in Communication Sciences, Digital Entertainment & Marketing, I subsequently obtained the EcCouncil EHE and CompTIA Security+ certifications by attending the specialized computer school, Istituto Volta in Milan, specializing in CyberSecurity. My commitment in the field of computer science is also highlighted by the achievement of numerous other certifications in IT, CyberSecurity, Networking, and Cloud. I am motivated to acquire new skills and aspire to work in a dynamic environment in order to contribute with passion and dedication to cybersecurity.
+​Graduated in Communication Sciences, Digital Entertainment & Marketing, I subsequently obtained the EcCouncil EHE and CompTIA Security+ certifications by attending the specialized computer school, Istituto Volta in Milan, specializing in CyberSecurity. 
+My commitment in the field of computer science is also highlighted by the achievement of numerous other certifications in IT, CyberSecurity, Networking, and Cloud. 
+I am motivated to acquire new skills and aspire to work in a dynamic environment in order to contribute with passion and dedication to cybersecurity.
 
 ## Contatti
 
