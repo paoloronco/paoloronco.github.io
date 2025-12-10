@@ -11,7 +11,7 @@
 </p>
 
 ---
-<img align="right" alt="Coding" width="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHJnMml0azA1cGhteDNlb2szb3gydDZkZGo4OGZ4bmRxd3NkaTdldyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7ccvez1hF0LdO2JfSZ/giphy.gif">
+
 
 ### 🧑‍💻 About Me
 - 🔐 I have a strong passion for **Cybersecurity** and cloud security  
@@ -53,102 +53,67 @@
 
 ---
 
-### 📜 Certifications
-
-<p align="center">
-
-  <!-- CompTIA Security+ -->
-  <a href="https://paoloronco.it/DOCS/1%20CompTIA%20Security+%20ce%20certificate.pdf">
-    <img src="https://img.shields.io/badge/CompTIA-Security%2B-EA3E2A?style=flat&logo=comptia&logoColor=white" alt="CompTIA Security+" />
-  </a>
-
-  <!-- CompTIA AI Essentials -->
-  <a href="https://paoloronco.it/DOCS/1a%20CompTIA-AI-Essentials.pdf">
-    <img src="https://img.shields.io/badge/CompTIA-AI%20Essentials-FFFDD0?style=flat&logo=comptia&logoColor=white" alt="CompTIA AI Essentials" />
-  </a>
-  <br>
-  <!-- Google Cybersecurity Professional Certificate -->
-  <a href="https://paoloronco.it/DOCS/10%20Coursea%20-%20Google%20Cyber%20Security%20Professional%20Certificate.pdf">
-    <img src="https://img.shields.io/badge/Google-Cybersecurity%20Professional%20Certificate-4285F4?style=flat&logo=google&logoColor=white" alt="Google Cybersecurity Professional Certificate" />
-  </a>
-    <!-- AWS Knowledge: Cloud Essentials -->
-  <a href="https://paoloronco.it/DOCS/15%20AWS%20CAWS%20Knowledge%20Cloud%20Essentials.pdf">
-    <img src="https://img.shields.io/badge/AWS-Cloud%20Essentials-FF9900?style=flat&logo=amazon-aws&logoColor=white" alt="AWS Cloud Essentials" />
-  </a>
-
-  <!-- Google Cloud Skill Boost: Google Cloud Essentials -->
-  <a href="https://www.cloudskillsboost.google/public_profiles/394043de-e04e-4006-afaf-02a2608acfc8/badges/3551976">
-    <img src="https://img.shields.io/badge/Google%20Cloud-Google%20Cloud%20Essentials-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="Google Cloud Essentials" />
-  </a>
-  <br>
-  <!-- Intel Network Academy: Network Transformation 101 -->
-  <a href="https://paoloronco.it/DOCS/9%20Coursea%20-%20Intel%c2%ae%20Network%20Academy%20-%20Network%20Transformation%20101.pdf">
-    <img src="https://img.shields.io/badge/Intel%20Network%20Academy-Network%20Transformation%20101-0071C5?style=flat&logo=intel&logoColor=white" alt="Intel Network Academy Network Transformation 101" />
-  </a>
-
-  <!-- Google IT Support: Technical Support Fundamentals -->
-  <a href="https://paoloronco.it/DOCS/7%20Coursea%20-%20Google%20IT%20Support%20-%20Technical%20Support%20Fundamentals.pdf">
-    <img src="https://img.shields.io/badge/Google%20IT%20Support-Technical%20Support%20Fundamentals-34A853?style=flat&logo=google&logoColor=white" alt="Google IT Support: Technical Support Fundamentals" />
-  </a>
-
-<!-- Cisco NetAcad: Get Connected -->
-  <a href="https://paoloronco.it/DOCS/3%20Cisco%20NetCAD%20-%20Get%20Connected%202022.pdf">
-    <img src="https://img.shields.io/badge/Cisco%20NetAcad-Get%20Connected-1BA0D7?style=flat&logo=cisco&logoColor=white" alt="Cisco NetAcad Get Connected" />
-  </a>
-
-  <!-- Cisco NetAcad: Introduction to CyberSecurity -->
-  <a href="https://paoloronco.it/DOCS/4%20Cisco%20NetCAD%20-%20Introduction%20to%20CyberSecurity%202022.pdf">
-    <img src="https://img.shields.io/badge/Cisco%20NetAcad-Introduction%20to%20CyberSecurity-1BA0D7?style=flat&logo=cisco&logoColor=white" alt="Cisco NetAcad Introduction to CyberSecurity" />
-  </a>
-
-  <!-- NDG Linux Unhatched -->
-  <a href="https://paoloronco.it/DOCS/5%20Cisco%20NetCAD%20-%20NDG%20Linux%20Unchained.pdf">
-    <img src="https://img.shields.io/badge/NDG-Linux%20Unhatched-333?style=flat&logo=linux&logoColor=FCC624" alt="NDG Linux Unhatched" />
-  </a>
-</p>
-
-
----
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <table align="center">
   <tr>
-    <td>
+    <td align="center" width="50%">
       <a href="https://github.com/paoloronco/AI-RAG-docuquery-app">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=paoloronco&repo=AI-RAG-docuquery-app&theme=radical" />
+        <img
+          src="https://github-readme-stats.vercel.app/api/pin/?username=paoloronco&repo=AI-RAG-docuquery-app&theme=radical&cache_seconds=86400"
+          width="420"
+        />
       </a>
     </td>
-    <td>
+    <td align="center" width="50%">
       <a href="https://github.com/paoloronco/lynx">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=paoloronco&repo=Lynx&theme=radical" />
+        <img
+          src="https://github-readme-stats.vercel.app/api/pin/?username=paoloronco&repo=lynx&theme=radical&cache_seconds=86400"
+          width="420"
+        />
       </a>
     </td>
   </tr>
+
   <tr>
-    <td>
+    <td align="center" width="50%">
       <a href="https://github.com/paoloronco/n8n-wordpress-tts-automation">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=paoloronco&repo=n8n-wordpress-tts-automation&theme=radical" />
+        <img
+          src="https://github-readme-stats.vercel.app/api/pin/?username=paoloronco&repo=n8n-wordpress-tts-automation&theme=radical&cache_seconds=86400"
+          width="420"
+        />
       </a>
     </td>
-    <td>
+    <td align="center" width="50%">
       <a href="https://github.com/paoloronco/itsupport-simulator">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=paoloronco&repo=itsupport-simulator&theme=radical" />
+        <img
+          src="https://github-readme-stats.vercel.app/api/pin/?username=paoloronco&repo=itsupport-simulator&theme=radical&cache_seconds=86400"
+          width="420"
+        />
       </a>
     </td>
   </tr>
+
   <tr>
-    <td>
+    <td align="center" width="50%">
       <a href="https://github.com/paoloronco/skills-website">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=paoloronco&repo=skills-website&theme=radical" />
+        <img
+          src="https://github-readme-stats.vercel.app/api/pin/?username=paoloronco&repo=skills-website&theme=radical&cache_seconds=86400"
+          width="420"
+        />
       </a>
     </td>
-    <td>
+    <td align="center" width="50%">
       <a href="https://github.com/paoloronco/Disk-Management-APP">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=paoloronco&repo=Disk-Management-APP&theme=radical" />
+        <img
+          src="https://github-readme-stats.vercel.app/api/pin/?username=paoloronco&repo=Disk-Management-APP&theme=radical&cache_seconds=86400"
+          width="420"
+        />
       </a>
     </td>
   </tr>
 </table>
+
 
 ---
 
