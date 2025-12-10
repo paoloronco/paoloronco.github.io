@@ -54,65 +54,42 @@
 ---
 
 ## 🚀 Featured Projects
+## 🚀 Featured Projects
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/paoloronco/AI-RAG-docuquery-app">
-        <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=paoloronco&repo=AI-RAG-docuquery-app&theme=radical&cache_seconds=86400"
-          width="420"
-        />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/paoloronco/lynx">
-        <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=paoloronco&repo=lynx&theme=radical&cache_seconds=86400"
-          width="420"
-        />
-      </a>
-    </td>
-  </tr>
+### 🔹 [AI-RAG-docuquery-app](https://github.com/paoloronco/AI-RAG-docuquery-app)
+App RAG per interrogare documenti in modo intelligente.  
+![Stars](https://img.shields.io/github/stars/paoloronco/AI-RAG-docuquery-app?style=social)
 
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/paoloronco/n8n-wordpress-tts-automation">
-        <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=paoloronco&repo=n8n-wordpress-tts-automation&theme=radical&cache_seconds=86400"
-          width="420"
-        />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/paoloronco/itsupport-simulator">
-        <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=paoloronco&repo=itsupport-simulator&theme=radical&cache_seconds=86400"
-          width="420"
-        />
-      </a>
-    </td>
-  </tr>
+---
 
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/paoloronco/skills-website">
-        <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=paoloronco&repo=skills-website&theme=radical&cache_seconds=86400"
-          width="420"
-        />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/paoloronco/Disk-Management-APP">
-        <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=paoloronco&repo=Disk-Management-APP&theme=radical&cache_seconds=86400"
-          width="420"
-        />
-      </a>
-    </td>
-  </tr>
-</table>
+### 🔹 [lynx](https://github.com/paoloronco/lynx)
+Tooling / framework sperimentale (descrizione sintetica qui).  
+![Stars](https://img.shields.io/github/stars/paoloronco/lynx?style=social)
+
+---
+
+### 🔹 [n8n-wordpress-tts-automation](https://github.com/paoloronco/n8n-wordpress-tts-automation)
+Automazione TTS per articoli WordPress tramite n8n.  
+![Stars](https://img.shields.io/github/stars/paoloronco/n8n-wordpress-tts-automation?style=social)
+
+---
+
+### 🔹 [itsupport-simulator](https://github.com/paoloronco/itsupport-simulator)
+Simulatore di supporto IT / troubleshooting.  
+![Stars](https://img.shields.io/github/stars/paoloronco/itsupport-simulator?style=social)
+
+---
+
+### 🔹 [skills-website](https://github.com/paoloronco/skills-website)
+Sito web delle skill personali / portfolio.  
+![Stars](https://img.shields.io/github/stars/paoloronco/skills-website?style=social)
+
+---
+
+### 🔹 [Disk-Management-APP](https://github.com/paoloronco/Disk-Management-APP)
+App per la gestione dei dischi / storage.  
+![Stars](https://img.shields.io/github/stars/paoloronco/Disk-Management-APP?style=social)
+
 
 
 ---
