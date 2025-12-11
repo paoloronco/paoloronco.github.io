@@ -1,112 +1,106 @@
-<!-- Banner / Titolo -->
-<h1 align="center">👋 Hi, I'm Paolo Ronco</h1>
-<h3 align="center">Cybersecurity Analyst 🚀</h3>
+<!--
+Profile README for paoloronco
+-->
 
-<!-- Social links -->
+<h1 align="center">👋 Hi, I'm <strong>Paolo Ronco</strong></h1>
+<h3 align="center">🔐 Cybersecurity, Cloud Security & AI Enthusiast | 🧑‍💻 Tech Explorer</h3>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/paolo-ronco-685a5722a/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:info@paoloronco.it"><img src="https://img.shields.io/badge/Email-%23DD0031.svg?&logo=gmail&logoColor=white" /></a>
-  <a href="https://paoloronco.it"><img src="https://img.shields.io/badge/Website-2bbc8a?style=flat&logo=Google-chrome&logoColor=white" /></a>
-  <a href="https://github.com/paoloronco"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" /></a>
+  <a href="https://github.com/paoloronco"><img src="https://img.shields.io/badge/GitHub-paoloronco-181717?style=flat-square&logo=github" /></a>
+  <a href="https://www.linkedin.com/in/paolo-ronco-685a5722a/"><img src="https://img.shields.io/badge/LinkedIn-Paolo%20Ronco-0A66C2?style=flat-square&logo=linkedin" /></a>
+  <a href="mailto:info@paoloronco.it"><img src="https://img.shields.io/badge/Email-info@paoloronco.it-EA4335?style=flat-square&logo=gmail" /></a>
+  <a href="https://paoloronco.it"><img src="https://img.shields.io/badge/Website-paoloronco.it-000000?style=flat-square&logo=googlechrome" /></a>
 </p>
 
 ---
 
+## 🧑‍💻 About Me  
+- 🔐 I’m deeply passionate about **Cybersecurity** , **Cloud Security** & **AI**  
+- 📂 On GitHub I share **useful tools, experiments and personal projects**  
+- ⚡ I love exploring new technologies and transforming ideas into real solutions  
+- 🌍 Discover more about me → **https://paoloronco.it**
 
-### 🧑‍💻 About Me
-- 🔐 I have a strong passion for **Cybersecurity** and cloud security  
-- 📂 On GitHub I share projects and ideas: some useful, others more experimental  
-- ⚡ I enjoy exploring new technologies and turning them into concrete solutions  
-- 🌍 Learn more about me at [paoloronco.it](https://paoloronco.it)  
+## 🎓 Certifications
 
+<p align="center">
+
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://paoloronco.it/wp-content/uploads/2025/05/image1-1.png" width="110" />
+    <div style="font-size: 12px; margin-top: 4px;">CompTIA Security+</div>
+  </div>
+
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://paoloronco.it/wp-content/uploads/2025/10/2.webp" width="100" />
+    <div style="font-size: 12px; margin-top: 4px;">Google Cybersecurity</div>
+  </div>
+
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://paoloronco.it/wp-content/uploads/2025/10/twitter_thumb_201604_blob.png" width="100" />
+    <div style="font-size: 12px; margin-top: 4px;">CompTIA AI Essentials</div>
+  </div>
+
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://media.licdn.com/dms/image/v2/D4D12AQHTEGrd7riUyA/article-inline_image-shrink_1000_1488/article-inline_image-shrink_1000_1488/0/1718230026148?e=2147483647&v=beta&t=fOASGSc1eCIV6wQyn5jHelSIPApf7NzZs9IfFkwQy3Y" width="105" />
+    <div style="font-size: 12px; margin-top: 4px;">Google Cloud GenAI Leader</div>
+  </div>
+</p>
+
+<p align="left"><i>…more certifications coming</i></p>
 
 ---
 
-### ⚡ Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=flat&logo=Windows%2011&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=fla&logo=Ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kali-268BEE?style=flat&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white" />
+## 🚀 Tech Stack & Tools
+
+### ☁️ Cloud & Virtualization
+<p align="left">
+
+  <!-- PRIORITY -->
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=googlecloud,aws,cloudflare,firebase" />  
   <br>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <br>
-  <img src="https://img.shields.io/badge/AI-FF6F00?style=flat&logo=openai&logoColor=white" />
-  <img src="https://shields.io/badge/-OpenAI-93f6ef?style=flatlogo=openai" />
-
-  <img src="https://img.shields.io/badge/google%20gemini-8E75B2?style=flat&logo=google%20gemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Ollama-000000?style=flat&logo=ollama&logoColor=white" />
-  <img src="https://img.shields.io/badge/Replit-DD1200?style=flat&logo=Replit&logoColor=white)" />
-  <br>
-  ...
-
+  <!-- CONTAINERS -->
+  <img src="https://skillicons.dev/icons?i=docker,linux,ubuntu,kali,redhat,windows" />   
 </p>
 
 ---
 
-## 🚀 Featured Projects
-## 🚀 Featured Projects
-
-### 🔹 [AI-RAG-docuquery-app](https://github.com/paoloronco/AI-RAG-docuquery-app)
-App RAG per interrogare documenti in modo intelligente.  
-![Stars](https://img.shields.io/github/stars/paoloronco/AI-RAG-docuquery-app?style=social)
-
----
-
-### 🔹 [lynx](https://github.com/paoloronco/lynx)
-Tooling / framework sperimentale (descrizione sintetica qui).  
-![Stars](https://img.shields.io/github/stars/paoloronco/lynx?style=social)
-
----
-
-### 🔹 [n8n-wordpress-tts-automation](https://github.com/paoloronco/n8n-wordpress-tts-automation)
-Automazione TTS per articoli WordPress tramite n8n.  
-![Stars](https://img.shields.io/github/stars/paoloronco/n8n-wordpress-tts-automation?style=social)
-
----
-
-### 🔹 [itsupport-simulator](https://github.com/paoloronco/itsupport-simulator)
-Simulatore di supporto IT / troubleshooting.  
-![Stars](https://img.shields.io/github/stars/paoloronco/itsupport-simulator?style=social)
-
----
-
-### 🔹 [skills-website](https://github.com/paoloronco/skills-website)
-Sito web delle skill personali / portfolio.  
-![Stars](https://img.shields.io/github/stars/paoloronco/skills-website?style=social)
-
----
-
-### 🔹 [Disk-Management-APP](https://github.com/paoloronco/Disk-Management-APP)
-App per la gestione dei dischi / storage.  
-![Stars](https://img.shields.io/github/stars/paoloronco/Disk-Management-APP?style=social)
-
-
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=paoloronco&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paoloronco&layout=compact&theme=radical" alt="langs" />
+### 🔧 Development & Automation  
+<p align="left">
+  <img src="https://img.shields.io/badge/n8n-F56A2A?style=for-the-badge&logo=n8n&logoColor=white" /> 
+  <br>
+  <img src="https://skillicons.dev/icons?i=github,githubactions,vercel,supabase,wordpress,vscode" />  
+  <br>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,npm" />
 </p>
 
 ---
 
-### ✨ Fun fact
-> “Always learning, always building.  
-If it can be automated, secured, or scaled in the cloud… I want to try it.” 🚀
+### 🔐 Security Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Wiz-5A67D8?style=for-the-badge&logo=wiz&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare%20Zero%20Trust-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/CrowdStrike-F43030?style=for-the-badge&logo=crowdstrike&logoColor=white" />
+  <img src="https://img.shields.io/badge/SentinelOne-5C2D91?style=for-the-badge&logo=sentinelone&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wazuh-5A5A5A?style=for-the-badge&logo=wazuh&logoColor=white" />
+  <img src="https://img.shields.io/badge/NetWitness-0A5DB0?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20SCC-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+</p>
+
+---
+
+
+## 📊 GitHub Stats
 
 <p align="center">
-  If you enjoy my work, <strong>leave a ⭐</strong> — your support keeps me motivated! 🚀
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=paoloronco&show_icons=true&theme=neon" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=paoloronco&theme=neon" />
 </p>
 
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paoloronco&layout=compact&theme=neon" />
+</p>
+
+---
+<h2 align="center">✨ Thank you for visiting my profile</h2>
+<h3 align="center">If you enjoyed my work, feel free to connect!</h3>
